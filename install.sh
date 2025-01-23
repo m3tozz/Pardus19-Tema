@@ -17,7 +17,7 @@ then
     	clear
     	echo -e "\033[1;31m
 wget Bulunamadı!\033[1;33m
-wget paketi sisteminizde kurulu olmadığı için Papyrus ikonları sisteminize kurulamadı
+wget paketi sisteminizde kurulu olmadığı için Papirus ikonları sisteminize kurulamadı
 
 \033[1;31mwget Kurulumu:
 \033[1;36m
