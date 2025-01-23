@@ -32,6 +32,17 @@ cd Pardus19-Tema
 sudo bash ./install.sh
 ```
 
+> [!WARNING]
+> install.sh scripti sadece temaları sisteminize kurar; temaları kullanmak için görünüm ayarlarından seçim yapmanız gerekmektedir!
+
+<details>
+<summary>Görünüm ayarı nasıl olmalı ?</summary>
+  <b>Tema:</b> Pardus-Adapta-Blue <br>
+  <b>Pencere Teması:</b> Pardus-Adapta-Blue-Eta<br>
+  <b>Simgeler:</b> ePapyrus-Dark<br>
+  <b>Menü simgesi:</b> menu-icons/logo.svg<br>
+</details>
+
 --------------------------------------------------------------------------
 
 > Bu repodaki özelleştirme dosyaları ve duvar kağıtları Pardus-19.5 sürümüne aittir ve https://pardus.org.tr/eski-surumler adresinden alınmıştır.
