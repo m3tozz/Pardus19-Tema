@@ -28,7 +28,7 @@ Arch);
 → sudo pacman -S wget
 \033[1;35m
 RHEL-based dağıtımlar;
-→ sudo dnf install neofetch"
+→ sudo dnf install wget"
 exit 1
 
 fi
