@@ -38,6 +38,7 @@ wget -qO- https://git.io/papirus-icon-theme-install | sh
     echo -e"
 	\033[0;31mTema dosyası /usr/share/themes içerisine kopyalanıyor...\033[1;36m"
 	cp -r themes/Pardus19-Adapta-Blue-Eta/ /usr/share/themes 
+ 	cp -r themes/Pardus19-Adapta-Blue/ /usr/share/themes 
 
     echo -e"
 	\033[0;31mArka plan dosyaları /usr/share/backgrounds içerisine kopyalanıyor...\033[1;36m"                                      
