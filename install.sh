@@ -11,7 +11,7 @@ Kurulum Yapılıyor...\033[1;36m"
 sleep 0.2
 clear
 echo -e "\033[31m
-	TR: İkon paketi kuruluyor...\033[0m"
+	İkon paketi kuruluyor...\033[0m"
 if ! command -v wget
 then
     	clear
