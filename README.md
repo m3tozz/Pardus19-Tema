@@ -39,7 +39,7 @@ sudo bash ./install.sh
 <summary>Görünüm ayarı nasıl olmalı ?</summary>
   <b>Tema:</b> Pardus-Adapta-Blue <br>
   <b>Pencere Teması:</b> Pardus-Adapta-Blue-Eta<br>
-  <b>Simgeler:</b> ePapyrus-Dark<br>
+  <b>Simgeler:</b> ePapirus-Dark<br>
   <b>Menü simgesi:</b> menu-icons/logo.svg<br>
 </details>
 
