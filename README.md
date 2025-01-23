@@ -1,5 +1,6 @@
 Pardus19-Tema
 -
+
 <p align="center"><img src="https://github.com/user-attachments/assets/4221661e-961d-44e8-80b5-7d050f8a50b3"></p>
 
 --------------------------------------------------------------------------
