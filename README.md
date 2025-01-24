@@ -30,6 +30,10 @@ cd Pardus19-Tema
 ```bash
 sudo bash ./install.sh
 ```
+# Özelleştirme Videosu:
+<a href="https://www.youtube.com/watch?v=_UeLd8Xwm0w"><img src="https://github.com/user-attachments/assets/c3bc1f18-dc8e-4872-baf0-2b261006c230" width="400"></a>
+
+--------------------------------------------------------------------------
 
 > [!WARNING]
 > install.sh scripti sadece temaları sisteminize kurar; temaları kullanmak için görünüm ayarlarından seçim yapmanız gerekmektedir!
@@ -38,9 +42,10 @@ sudo bash ./install.sh
 <summary>Görünüm ayarı nasıl olmalı ?</summary>
   <b>Tema:</b> Pardus-Adapta-Blue-Eta <br>
   <b>Pencere Teması:</b> Pardus-Adapta-Blue<br>
-  <b>Simgeler:</b> ePapirus-Dark<br>
+  <b>Simgeler:</b> ePapirus<br>
   <b>Menü simgesi:</b> menu-icons/logo.svg<br>
 </details>
+
 
 --------------------------------------------------------------------------
 
