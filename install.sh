@@ -8,7 +8,7 @@ if [[ "${UID}" != 0 ]] ; then
 fi
 echo -e "\033[0;31m 
 Kurulum Yapılıyor...\033[1;36m"
-sleep 0.2
+sleep 1
 clear
 echo -e "\033[31m
 	İkon paketi kuruluyor...\033[0m"
@@ -39,12 +39,11 @@ wget -qO- https://git.io/papirus-icon-theme-install | sh
 	\033[0;31mTema dosyası /usr/share/themes içerisine kopyalanıyor...\033[1;36m"
 	cp -r themes/Pardus19-Adapta-Blue-Eta/ /usr/share/themes 
  	cp -r themes/Pardus19-Adapta-Blue/ /usr/share/themes 
-sleep 0.2
     echo -e"
 	\033[0;31mArka plan dosyaları /usr/share/backgrounds içerisine kopyalanıyor...\033[1;36m"                                      
 	mkdir /usr/share/backgrounds/Pardus19
 	cp -r wallpapers /usr/share/backgrounds/Pardus19
- sleep 0.2
+ sleep 2
 clear
 echo -e "\033[0;31m 
 Dosyalar sisteminize eklendi!\033[0m"
