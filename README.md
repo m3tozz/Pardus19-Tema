@@ -31,7 +31,7 @@ cd Pardus19-Tema
 sudo bash ./install.sh
 ```
 # Özelleştirme Videosu:
-<a href="https://www.youtube.com/watch?v=_UeLd8Xwm0w"><img src="https://github.com/user-attachments/assets/c3bc1f18-dc8e-4872-baf0-2b261006c230" width="400"></a>
+<a href="https://youtu.be/wgYCwydXjoE"><img src="https://github.com/user-attachments/assets/c3bc1f18-dc8e-4872-baf0-2b261006c230" width="400"></a>
 
 --------------------------------------------------------------------------
 
@@ -40,9 +40,11 @@ sudo bash ./install.sh
 
 <details>
 <summary>Görünüm ayarı nasıl olmalı ?</summary>
-  <b>Tema:</b> Pardus-Adapta-Blue-Eta <br>
+  <b>Tema:</b> Pardus-Adapta-Blue <br>
   <b>Pencere Teması:</b> Pardus-Adapta-Blue<br>
   <b>Simgeler:</b> ePapirus<br>
+  <b>Panel Boyutu:</b> 32<br>
+  <b>Saat Yazı Tipi:</b> MonoSpace Bold<br>
   <b>Menü simgesi:</b> menu-icons/logo.svg<br>
 </details>
 
