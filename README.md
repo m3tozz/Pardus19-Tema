@@ -30,8 +30,7 @@ cd Pardus19-Tema
 ```bash
 sudo bash ./install.sh
 ```
-# Özelleştirme Videosu:
-<a href="https://youtu.be/95_DW0362Uk"><img src="https://github.com/user-attachments/assets/c3bc1f18-dc8e-4872-baf0-2b261006c230" width="400"></a>
+
 
 --------------------------------------------------------------------------
 
